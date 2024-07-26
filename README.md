@@ -19,26 +19,6 @@ This project aims to create a tool that evaluates the strength of passwords to e
 - [Password Strength Tester Python Script](https://github.com/PatrickKish1/grow-intern_internship/blob/main/passwords.py)
 - [Password Strength Tester Demo Video](https://github.com/PatrickKish1/grow-intern_internship/blob/main/password.mp4)
 
-## Demo Videos
-Below are the demonstration videos for each project. These videos provide an overview of the functionality and usage of each tool.
-
-### Vulnerability Scanner Demo
-<video width="640" height="480" controls autoplay>
-  <source src="https://github.com/PatrickKish1/grow-intern_internship/blob/main/vulnerability.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-### Network Traffic Analyzer Demo
-<video width="640" height="480" controls autoplay>
-  <source src="https://github.com/PatrickKish1/grow-intern_internship/blob/main/network-traffic.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-### Password Strength Tester Demo
-<video width="640" height="480" controls autoplay>
-  <source src="https://github.com/PatrickKish1/grow-intern_internship/blob/main/password.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 ## About
 These projects are part of the Grow Intern Cybersecurity Internship program, designed to provide hands-on experience in the field of cybersecurity.
